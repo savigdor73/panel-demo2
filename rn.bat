@@ -1,0 +1,1 @@
+python -m debugpy --listen 4893 --wait-for-client -m panel serve app.py --autoreload
